@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://test.animationanh3d.publicvm.com/sitemap.xml
